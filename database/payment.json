@@ -1,0 +1,37 @@
+[
+   {
+      "id": "120363421715122589@g.us",
+      "key": "qris",
+      "response": "scan qr diatas",
+      "isImage": true,
+      "image_url": "https://img1.pixhost.to/images/9526/652786629_ramagnz.jpg"
+   },
+   {
+      "id": "120363421715122589@g.us",
+      "key": "dana",
+      "response": "089517579659",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363421715122589@g.us",
+      "key": "gopay",
+      "response": "085894252715",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363421715122589@g.us",
+      "key": "allpay",
+      "response": "───「 *PAYMENT* 」────\n\n- *Dana :* 089517579659\n- *Gopay :* 085894252715\n- *Ovo :* -_-\n- *Qris :* Scan QR di atas\n\nOK, thanks udah order di *ASISTEN Topify.id*",
+      "isImage": true,
+      "image_url": "https://img1.pixhost.to/images/9526/652788836_ramagnz.jpg"
+   },
+   {
+      "id": "120363405523479993@g.us",
+      "key": "allpay",
+      "response": "───「 *PAYMENT* 」────\n\n- *Dana :* 089517579659\n- *Gopay :* 085894252715\n- *Ovo :* -_-\n- *Qris :* Scan QR di atas\n\nOK, thanks udah order di *ASISTEN Topify.id*",
+      "isImage": true,
+      "image_url": "https://img1.pixhost.to/images/9526/652789365_ramagnz.jpg"
+   }
+]
